@@ -30,7 +30,7 @@ A comprehensive gym system for QBCore Framework with membership management, mult
 
 - QBCore Framework
 - oxmysql
-- qb-target/ox_target
+- qb-target
 - qb-input/ox_lib
 - qb-menu/ox_lib
 - ps-buffs
